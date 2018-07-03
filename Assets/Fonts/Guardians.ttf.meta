@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 50b054f60c172e2498d765a090036374
+timeCreated: 1499215447
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Guardians
+  fontNames:
+  - Guardians
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
